@@ -228,10 +228,6 @@ The IHME row appears only if you have supplied the source file.
 }
 ```
 
-> Replace the DOI above with the DOI of the **new** Zenodo version.
-> `10.5281/zenodo.21562241` resolves to the v1 archive, which contains the
-> withdrawn additive window correction.
-
 ---
 
 ## Companion paper
