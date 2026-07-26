@@ -1,5 +1,7 @@
 # The Transparency-Window Dilemma
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21597368.svg)](https://doi.org/10.5281/zenodo.21597368)
+
 Code and data for:
 
 > Kılınç, Y. S. (2026). *The Transparency-Window Dilemma: Why the Doomsday
@@ -220,15 +222,11 @@ The IHME row appears only if you have supplied the source file.
             Cannot Settle Its Own Reference Class},
   author = {K{\i}l{\i}n{\c{c}}, Yavuz Selim},
   year   = {2026},
-  doi    = {10.5281/zenodo.XXXXXXXX},
+  doi    = {10.5281/zenodo.21597368},
   url    = {https://github.com/YSKpython/doomsday-twd},
   note   = {Code and data}
 }
 ```
-
-> Replace the DOI above with the DOI of the **new** Zenodo version.
-> `10.5281/zenodo.21562241` resolves to the v1 archive, which contains the
-> withdrawn additive window correction.
 
 ---
 
